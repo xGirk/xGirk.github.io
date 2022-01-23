@@ -1,0 +1,290 @@
+[
+    {
+        "Name": "Corners",
+        "Value": 11,
+        "Type": 0,
+        "IsMental": false,
+        "IsPhysical": false,
+        "IsTechnical": true
+    },
+    {
+        "Name": "Crossing",
+        "Value": 12,
+        "Type": 0,
+        "IsMental": false,
+        "IsPhysical": false,
+        "IsTechnical": true
+    },
+    {
+        "Name": "Dribbling",
+        "Value": 10,
+        "Type": 0,
+        "IsMental": false,
+        "IsPhysical": false,
+        "IsTechnical": true
+    },
+    {
+        "Name": "Finishing",
+        "Value": 3,
+        "Type": 0,
+        "IsMental": false,
+        "IsPhysical": false,
+        "IsTechnical": true
+    },
+    {
+        "Name": "First Touch",
+        "Value": 9,
+        "Type": 0,
+        "IsMental": false,
+        "IsPhysical": false,
+        "IsTechnical": true
+    },
+    {
+        "Name": "Free Kick Taking",
+        "Value": 9,
+        "Type": 0,
+        "IsMental": false,
+        "IsPhysical": false,
+        "IsTechnical": true
+    },
+    {
+        "Name": "Heading",
+        "Value": 6,
+        "Type": 0,
+        "IsMental": false,
+        "IsPhysical": false,
+        "IsTechnical": true
+    },
+    {
+        "Name": "Long Shots",
+        "Value": 4,
+        "Type": 0,
+        "IsMental": false,
+        "IsPhysical": false,
+        "IsTechnical": true
+    },
+    {
+        "Name": "Long Throws",
+        "Value": 4,
+        "Type": 0,
+        "IsMental": false,
+        "IsPhysical": false,
+        "IsTechnical": true
+    },
+    {
+        "Name": "Marking",
+        "Value": 11,
+        "Type": 0,
+        "IsMental": false,
+        "IsPhysical": false,
+        "IsTechnical": true
+    },
+    {
+        "Name": "Passing",
+        "Value": 8,
+        "Type": 0,
+        "IsMental": false,
+        "IsPhysical": false,
+        "IsTechnical": true
+    },
+    {
+        "Name": "Penalty Taking",
+        "Value": 7,
+        "Type": 3,
+        "IsMental": false,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Tackling",
+        "Value": 9,
+        "Type": 0,
+        "IsMental": false,
+        "IsPhysical": false,
+        "IsTechnical": true
+    },
+    {
+        "Name": "Technique",
+        "Value": 10,
+        "Type": 3,
+        "IsMental": false,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Aggression",
+        "Value": 6,
+        "Type": 1,
+        "IsMental": true,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Anticipation",
+        "Value": 8,
+        "Type": 1,
+        "IsMental": true,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Bravery",
+        "Value": 7,
+        "Type": 1,
+        "IsMental": true,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Composure",
+        "Value": 9,
+        "Type": 1,
+        "IsMental": true,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Concentration",
+        "Value": 11,
+        "Type": 3,
+        "IsMental": false,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Decisions",
+        "Value": 9,
+        "Type": 1,
+        "IsMental": true,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Determination",
+        "Value": 11,
+        "Type": 1,
+        "IsMental": true,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Flair",
+        "Value": 6,
+        "Type": 1,
+        "IsMental": true,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Leadership",
+        "Value": 7,
+        "Type": 1,
+        "IsMental": true,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Off The Ball",
+        "Value": 9,
+        "Type": 1,
+        "IsMental": true,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Positioning",
+        "Value": 11,
+        "Type": 1,
+        "IsMental": true,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Teamwork",
+        "Value": 9,
+        "Type": 1,
+        "IsMental": true,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Vision",
+        "Value": 9,
+        "Type": 1,
+        "IsMental": true,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Work Rate",
+        "Value": 11,
+        "Type": 1,
+        "IsMental": true,
+        "IsPhysical": false,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Acceleration",
+        "Value": 11,
+        "Type": 2,
+        "IsMental": false,
+        "IsPhysical": true,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Agility",
+        "Value": 9,
+        "Type": 2,
+        "IsMental": false,
+        "IsPhysical": true,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Balance",
+        "Value": 9,
+        "Type": 2,
+        "IsMental": false,
+        "IsPhysical": true,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Jumping Reach",
+        "Value": 8,
+        "Type": 2,
+        "IsMental": false,
+        "IsPhysical": true,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Natural Fitness",
+        "Value": 8,
+        "Type": 2,
+        "IsMental": false,
+        "IsPhysical": true,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Pace",
+        "Value": 11,
+        "Type": 2,
+        "IsMental": false,
+        "IsPhysical": true,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Stamina",
+        "Value": 10,
+        "Type": 2,
+        "IsMental": false,
+        "IsPhysical": true,
+        "IsTechnical": false
+    },
+    {
+        "Name": "Strength",
+        "Value": 9,
+        "Type": 2,
+        "IsMental": false,
+        "IsPhysical": true,
+        "IsTechnical": false
+    }
+]
